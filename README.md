@@ -8,6 +8,18 @@ project source codes. Perhaps the source code **will be useful to someone**.
 
 The programing language is Delphi 7.
 
+### Main window
+![screen 1](https://github.com/KirinDenis/WindowsRegistryDefrag/blob/master/sc1.jpg)
+
+### About window
+![screen 2](https://github.com/KirinDenis/WindowsRegistryDefrag/blob/master/sc2.jpg)
+
+### Info window
+![screen 3](https://github.com/KirinDenis/WindowsRegistryDefrag/blob/master/sc3.jpg)
+
+### Defrag process window
+![screen 4](https://github.com/KirinDenis/WindowsRegistryDefrag/blob/master/sc4.jpg)
+
 ### I don't give any guarantees that this source code:
 is operational on Windows operating systems and doesn't cause damage. Publish exclusively for studying the source code and registry defragmentation algorithms.
 
