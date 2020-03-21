@@ -1,4 +1,4 @@
-# WindowsRegistryDefrag
+# Windows Registry Defrag
 ## Windows 98, 2000, XP registry defragmentation
 
 Initially, this project was implemented as a commercial for Design Creation Implementation LLC (DCI).
